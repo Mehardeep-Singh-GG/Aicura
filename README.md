@@ -47,11 +47,14 @@ This project focuses on training a model for diabetic retinopathy detection usin
 - **Matplotlib:** Version 3.3.2
 - **Time:** *(Standard library)*
 - **Pathlib:** *(Standard library)*
-- **IPython.display:** *(Version not specified)*
-- **Scikit-learn:** *(Version not specified)*
-- **Google's GenerativeAI:** *(Version not specified)*
+- **IPython.display:** 
+- **Scikit-learn:** 
+- **Google's GenerativeAI:** 
 
 ## Additional Information:
 
 - For detailed model training, refer to the Google Colab files:
-  -
+  -https://colab.research.google.com/drive/1P-ChGUiU61DuzHrLz_Gwu6ZrbYQMeGvM?usp=sharing
+  https://colab.research.google.com/drive/1dz0E3nLpj68LQWRq6RQVcsE2Zfhqz3mu?usp=sharing
+
+  Google Drive Link-https://drive.google.com/drive/folders/1IFWvak1a3zNPHZ9qBs8rBFrAu91_M2fe?usp=sharing
