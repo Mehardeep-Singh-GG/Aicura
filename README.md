@@ -54,6 +54,7 @@ This project focuses on training a model for diabetic retinopathy detection usin
 ## Additional Information:
 
 - For detailed model training, refer to the Google Colab files:
+- These Files are also doenloaded in the repo
   -https://colab.research.google.com/drive/1P-ChGUiU61DuzHrLz_Gwu6ZrbYQMeGvM?usp=sharing
   https://colab.research.google.com/drive/1dz0E3nLpj68LQWRq6RQVcsE2Zfhqz3mu?usp=sharing
 
