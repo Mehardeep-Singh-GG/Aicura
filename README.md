@@ -1,4 +1,3 @@
-Certainly! Here's the updated README file with a reference to the Google Colab file for detailed model training:
 
 ---
 
